@@ -24,10 +24,6 @@ Bem-vindo ao repositório do meu curso de Python! Este projeto é uma coleção 
 
 Sinta-se à vontade para explorar, modificar e enviar pull requests. Estou sempre aberto a sugestões e melhorias!
 
-### Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ### Contato
 
 Se você tiver alguma dúvida ou quiser discutir sobre o curso, sinta-se à vontade para entrar em contato:
