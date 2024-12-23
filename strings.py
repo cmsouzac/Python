@@ -8,7 +8,3 @@ print(2, "Luiz 'Otavio'")
 
 #Escape
 print("Luiz \"Otavio\"")
-
-print(123)
-
-print('cmsouza')
