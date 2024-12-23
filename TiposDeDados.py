@@ -18,3 +18,6 @@ print(type(lista))  # Saída: <class 'list'>
 dicionario = {"chave": "valor"}
 print(type(dicionario))  # Saída: <class 'dict'>
 
+# Exemplo 6: Exponeciação
+exp = 2. ** 3
+print(exp)
