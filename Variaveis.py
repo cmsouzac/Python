@@ -1,17 +1,11 @@
-# Atribuindo variavel
-x = 1
-print(x);
+# Regras para Nomeação de Variaveis
+#   1. Nome deve começar com uma letra ou sublinhado
+#   2. Não pode começar com um numero
+#   3. So pode conter letras, numeros e sublinhados
+#   4. Diferencia maiusculas de minusculas(idade é diferente de Idade)
+#   5. Não pode usar palavras reservadas de python (como if, while, class, etc)
+# ##
 
-# Identificando o tipo de uma variavel
-x = 10
-print(type(x));
-
-y = 3.14
-print(type(y));
-
-nome = "Lest' s Data"
-print(type(nome));
-
-# Multiplas atribuições
-a, b, c = 4, "Segunda_Atribuição", 3.14
-print(a, b,c);
+# Inteiro
+idade = 25
+print(idade);
