@@ -11,4 +11,4 @@ print('a' + 'b')
 # Exemplode coerçao de tipo
 #print('1' + 1); # erro de converção
 print(int('1'), type(int('1')))
-print(float('1.2') + 1)
+print(float('1.2') + 1) 
